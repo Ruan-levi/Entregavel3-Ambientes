@@ -1,4 +1,4 @@
-<img width="1906" height="890" alt="Screenshot 2026-09-30 181637" src="https://github.com/user-attachments/assets/c264c165-5ffd-421c-b4a9-78c75713d37f" /># Calculadora Express: Requisições POST com Node.js
+#Calculadora Express: Requisições POST com Node.js
 
 Projeto desenvolvido como atividade acadêmica sobre **requisições POST com Express no Node.js**. O servidor recebe dois números enviados por POST, realiza uma operação matemática (soma, subtração, multiplicação ou divisão) e devolve o resultado. Ele pode ser testado por uma **interface web** ou pelo **Postman**.
 
